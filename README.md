@@ -1,6 +1,6 @@
 # farheen1
 ## My Repository Links
-- [source file](https://github.com/mohammadfarheen)
+- [source repository](https://github.com/mohammadfarheen/farheen1 "repository: farheen1")
 - [hosted page](https://github.com/mohammadfarheen/farheen1/edit/master/README.md)
 ## About
 This repository is used for learning Github.
